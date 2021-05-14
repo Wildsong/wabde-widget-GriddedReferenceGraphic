@@ -117,7 +117,7 @@ define({
   "createGRGBtn": "GRG 생성",
   "clearGRGBtn": "지우기",
   "labelFormat": "레이블 형식",
-  "helpIconTooltip": "Z: Grid Zone Designator(GZD)\nS: 100,000미터 Grid Square Identification(GSID)\nX: 동향(X 좌표)\nY: 북향(Y 좌표)\n\n예시:\nZSXY는 15SWC8081751205이며\nZS X,Y는 15SWC 80817,51205임",
+  "helpIconTooltip": "Z: GZD(Grid Zone Designator)\nS: ${number}미터 GSID(Grid Square Identification)\nX: 동향(X 좌표)\nY: 북향(Y 좌표)\n\n예시:\nZSXY는 15SWC8081751205이며\nZS X,Y는 15SWC 80817,51205임",
   "addPointToolTip": "GRG 원점 추가",
   "cellWidth": "셀 너비(x)",
   "cellHeight": "셀 높이(y)",

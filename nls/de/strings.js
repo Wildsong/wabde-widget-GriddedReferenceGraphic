@@ -117,7 +117,7 @@ define({
   "createGRGBtn": "GRG erstellen",
   "clearGRGBtn": "Löschen",
   "labelFormat": "Beschriftungsformat",
-  "helpIconTooltip": "Z: Gitter-Zoneneinteilung (Grid Zone Designation, GZD)\nS: Identifikator für 100.000-Meter-Gitternetzquadrate\nX: Ostwert (X-Koordinate)\nY: Nordwert (Y-Koordinate)\n\nBeispiele:\nZSXY ist 15SWC8081751205\nZS X,Y ist 15SWC 80817,51205",
+  "helpIconTooltip": "Z: Gitter-Zoneneinteilung (Grid Zone Designation, GZD)\nS: Identifikator für ${number}-Meter-Gitternetzquadrate\nX: Ostwert (X-Koordinate)\nY: Nordwert (Y-Koordinate)\n\nBeispiele:\nZSXY ist 15SWC8081751205\nZS X,Y ist 15SWC 80817,51205",
   "addPointToolTip": "GRG-Ursprung hinzufügen",
   "cellWidth": "Zellenbreite (x)",
   "cellHeight": "Zellenhöhe (y)",

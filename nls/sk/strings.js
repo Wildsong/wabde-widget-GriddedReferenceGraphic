@@ -117,7 +117,7 @@ define({
   "createGRGBtn": "Vytvoriť GRG",
   "clearGRGBtn": "Vyčistiť",
   "labelFormat": "Formát popisu",
-  "helpIconTooltip": "Z: Grid Zone Designator (GZD)\nS: 100,000-metrov Grid Square Identifikácia (GSID)\nX: Východné súradnice (X Súradnica)\nY: Severné súradnice (Y Súradnica)\n\nExamples:\nZSXY is 15SWC8081751205\nZS X,Y is 15SWC 80817,51205",
+  "helpIconTooltip": "Z: Grid Zone Designator (GZD)\nS: 100,000 ${number}-metrov Grid Square Identifikácia (GSID)\nX: Východné súradnice (X Súradnica)\nY: Severné súradnice (Y Súradnica)\n\nPríklady:\nZSXY je 15SWC8081751205\nZS X,Y je 15SWC 80817,51205",
   "addPointToolTip": "Pridať GRG počiatok",
   "cellWidth": "Šírka bunky (x)",
   "cellHeight": "Výška bunky (y)",

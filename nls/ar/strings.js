@@ -117,7 +117,7 @@ define({
   "createGRGBtn": "إنشاء GRG",
   "clearGRGBtn": "مسح",
   "labelFormat": "تنسيق التسمية",
-  "helpIconTooltip": "Z: متخصص منطقة الشبكة (GZD)\nS: 100,000 متر تعريف مربع شبكة (GSID)\nX: تجاه الشرق (إحداثيات X)\nY: لا شيء (إحداثيات Y)\n\nأمثلة:\nZSXY هو 15SWC8081751205\nZS X، كما أن Y هو 15SWC 80817,51205",
+  "helpIconTooltip": "Z: متخصص منطقة الشبكة (GZD)\nS: ${number}-تعريف مربع شبكة المتر (GSID)\nX: تجاه الشرق (إحداثي X)\nY: تجاه الشمال (إحداثي Y)\n\nأمثلةnZSXY هو 15SWC8081751205\nZS X,Y هو 15SWC 80817,51205",
   "addPointToolTip": "إضافة أصل GRG",
   "cellWidth": "عرض الخلية (x)",
   "cellHeight": "ارتفاع الخلية (y)",

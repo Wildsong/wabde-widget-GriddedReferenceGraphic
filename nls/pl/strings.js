@@ -117,7 +117,7 @@ define({
   "createGRGBtn": "Utwórz grafikę GRG",
   "clearGRGBtn": "Wyczyść",
   "labelFormat": "Format etykiety",
-  "helpIconTooltip": "Z: wyznacznik stref siatki (GZD)\nS: identyfikacja kwadratu siatki o boku 100 000 metrów (GSID)\nX: współrzędna wschodnia (współrzędna X)\nY: współrzędna północna (współrzędna Y)\n\nPrzykłady:\nZSXY ma postać 15SWC8081751205\nZS X,Y ma postać 15SWC 80817,51205",
+  "helpIconTooltip": "Z: wyznacznik stref siatki (GZD)\nS: identyfikacja kwadratu siatki o boku ${number} metrów (GSID)\nX: współrzędna wschodnia (współrzędna X)\nY: współrzędna północna (współrzędna Y)\n\nPrzykłady:\nZSXY ma postać 15SWC8081751205\nZS X,Y ma postać 15SWC 80817,51205",
   "addPointToolTip": "Dodaj punkt zaczepienia grafiki GRG",
   "cellWidth": "Szerokość komórki (x)",
   "cellHeight": "Wysokość komórki (y)",

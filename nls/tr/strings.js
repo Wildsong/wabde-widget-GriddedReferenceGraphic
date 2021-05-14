@@ -117,7 +117,7 @@ define({
   "createGRGBtn": "GRG oluştur",
   "clearGRGBtn": "Temizle",
   "labelFormat": "Etiket Formatı",
-  "helpIconTooltip": "Z: Grid Zone Designator (GZD)\nS: 100,000-metre Grid Karesi Tanımlama (GSID)\nX: Doğuya yöneltme (X Koordinatı)\nY: Kuzeye yöneltme (Y Koordinat)\n\nÖrnekler:\nZSXY 15SWC8081751205’tir\nZS X,Y 15SWC 80817,51205’tir",
+  "helpIconTooltip": "Z: Grid Bölge İşareti (GZD)\nS: ${number}-metre Grid Karesi Tanımlama (GSID)\nX: Doğuya Yöneltme (X Koordinatı)\nY: Kuzeye Yöneltme (Y Koordinatı)\n\nÖrnekler:\nZSXY, 15SWC8081751205'tir\nZS X,Y 15SWC 80817,51205'tir",
   "addPointToolTip": "GRG Başlangıç Noktası Ekle",
   "cellWidth": "Hücre Genişliği (x)",
   "cellHeight": "Hücre Yüksekliği (y)",

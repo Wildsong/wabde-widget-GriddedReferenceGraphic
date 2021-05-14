@@ -117,7 +117,7 @@ define({
   "createGRGBtn": "Buat GRG",
   "clearGRGBtn": "Hapus",
   "labelFormat": "Format Label",
-  "helpIconTooltip": "Z: Pemilih Zona Grid (GZD)\nS: Identifikasi Persegi Grid (GSID) 100,000-meter\nX: Arah Timur (Koordinat X)\nY: Arah Utara (Koordinat Y)\n\nContoh:\nZSXY adalah 15SWC8081751205\nZS X,Y adalah 15SWC 80817,51205",
+  "helpIconTooltip": "Z: Pemilih Zona Grid (GZD)\nS: ${number}-Identifikasi Persegi Grid (GSID)\nX: Arah Timur (Koordinat X)\nY: Arah Utara (Koordinat Y)\n\nContoh:\nZSXY adalah 15SWC8081751205\nZS X,Y adalah 15SWC 80817,51205",
   "addPointToolTip": "Tambahkan Asal GRG",
   "cellWidth": "Lebar Sel (x)",
   "cellHeight": "Tinggi Sel (y)",

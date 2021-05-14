@@ -117,7 +117,7 @@ define({
   "createGRGBtn": "GRG の作成",
   "clearGRGBtn": "解除",
   "labelFormat": "ラベル形式",
-  "helpIconTooltip": "Z: グリッド ゾーン指定 (GZD)\nS: 100,000 メートル正方形 ID (GSID)\nX: 東距 (X 座標)\nY: 北距 (Y 座標)\n\n例:\nZSXY は 15SWC8081751205\nZS X,Y は 15SWC 80817,51205",
+  "helpIconTooltip": "Z: グリッド ゾーン指定 (GZD)\nS: ${number} メートル正方形 ID (GSID)\nX: 東距 (X 座標)\nY: 北距 (Y 座標)\n\n例:\nZSXY は 15SWC8081751205\nZS X,Y は 15SWC 80817,51205",
   "addPointToolTip": "GRG 原点を追加",
   "cellWidth": "セルの幅 (x)",
   "cellHeight": "セルの高さ (y)",

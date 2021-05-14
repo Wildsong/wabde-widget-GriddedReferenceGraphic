@@ -117,7 +117,7 @@ define({
   "createGRGBtn": "Vytvořit GRG",
   "clearGRGBtn": "Zrušit výběr",
   "labelFormat": "Formát popisku",
-  "helpIconTooltip": "Z: Označení zóny mřížky (GZD)\nS: Identifikace čtverce mřížky 100 000 metrů (GSID)\nX: Východní souřadnice (X)\nY: Severní souřadnice (Y)\n\nPříklady:\nZSXY je 15SWC8081751205\nZS X,Y je 15SWC 80817,51205",
+  "helpIconTooltip": "Z: Označení zóny mřížky (Grid Zone Designator – GZD)\\nS: Velikost čtverce mřížky ${number} metrů (Grid Square Identification – GSID)\\nX: Východní směr (Souřadnice X)\\nY: Severní směr (Souřadnice Y)\\n\\nPříklady:\\nZSXY je 15SWC8081751205\\nZS X,Y je 15SWC 80817,51205",
   "addPointToolTip": "Přidat počátek GRG",
   "cellWidth": "Šířka buňky (x)",
   "cellHeight": "Výška buňky (y)",

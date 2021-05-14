@@ -117,7 +117,7 @@ define({
   "createGRGBtn": "GRG létrehozása",
   "clearGRGBtn": "Törlés",
   "labelFormat": "Felirat formátuma",
-  "helpIconTooltip": "Z: Rácsháló zónajelölője (GZD)\nS: 100000 méteres rácsnégyzet-azonosítás (GSID)\nX: Abszcissza (X koordináta)\nY: Ordináta (Y koordináta)\n\nPéldák:\nZSXY – 15SWC8081751205\nZS X,Y – 15SWC 80817,51205",
+  "helpIconTooltip": "Z: Rácsháló zónajelölője (GZD)\nS: ${number} méteres rácsnégyzet-azonosítás (GSID)\nX: Abszcissza (X koordináta)\nY: Ordináta (Y koordináta)\n\nPéldák:\nZSXY – 15SWC8081751205\nZS X,Y – 15SWC 80817,51205",
   "addPointToolTip": "GRG kiindulási pontjának hozzáadása",
   "cellWidth": "Cella szélessége (x)",
   "cellHeight": "Cella magassága (y)",

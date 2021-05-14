@@ -117,7 +117,7 @@ define({
   "createGRGBtn": "Crear GRG",
   "clearGRGBtn": "Borrar",
   "labelFormat": "Formato de etiqueta",
-  "helpIconTooltip": "Z: Designador de zona de cuadrícula (GZD)\nS: Identificación de cuadrado de cuadrícula de 100.000 metros (GSID)\nX: Valor Este (coordenada X)\nY: Valor Norte (coordinada Y)\n\nEjemplos:\nZSXY es 15SWC8081751205\nZS X,Y es 15SWC 80817,51205",
+  "helpIconTooltip": "Z: Designador de zona de cuadrícula (GZD)\nS: Identificación de cuadrado de cuadrícula de ${number} metros (GSID)\nX: Valor Este (coordenada X)\nY: Valor Norte (coordenada Y)\n\nEjemplos:\nZSXY es 15SWC8081751205\nZS X,Y es 15SWC 80817,51205",
   "addPointToolTip": "Agregar origen de GRG",
   "cellWidth": "Ancho de celda (x)",
   "cellHeight": "Altura de celda (y)",

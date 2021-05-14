@@ -117,7 +117,7 @@ define({
   "createGRGBtn": "Kreiraj GRG",
   "clearGRGBtn": "Obriši",
   "labelFormat": "Format oznake",
-  "helpIconTooltip": "Z: Oznaka zone mreže (GZD)\nS: Identifikacija kvadrata mreže na 100.000 metara (GSID)\nX: Razdaljina u odnosu na Y osu (X koordinata)\nY: Razdaljina u odnosu na X osu (Y koordinata)\n\nPrimeri:\nZSXY je 15SWC8081751205\nZS X,Y je 15SWC 80817,51205",
+  "helpIconTooltip": "Z: Oznaka zone mreže (GZD)\nS: Identifikacija kvadrata mreže na ${number}-metara (GSID)\nX: Usmeravanje na istok (X koordinata)\nY: Usmeravanje na sever (Y koordinata)\n\nPrimeri:\nZSXY je 15SWC8081751205\nZS X,Y je 15SWC 80817,51205",
   "addPointToolTip": "Dodaj GRG koordinatni početak",
   "cellWidth": "Širina ćelije (x)",
   "cellHeight": "Visina ćelije (y)",

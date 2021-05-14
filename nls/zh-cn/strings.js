@@ -117,7 +117,7 @@ define({
   "createGRGBtn": "创建 GRG",
   "clearGRGBtn": "清除",
   "labelFormat": "标注格式",
-  "helpIconTooltip": "Z：格网区域指示符(GZD)\nS：100,000 米网格识别(GSID)\nX：Easting (X 坐标)\nY：Northing (Y 坐标)\n\n示例：\nZSXY 为 15SWC8081751205\nZS X,Y 为 15SWC 80817,51205",
+  "helpIconTooltip": "Z：格网区域指示符(GZD)\nS：${number}-米网格识别(GSID)\nX：Easting (X 坐标)\nY：Northing (Y 坐标)\n\n示例：\nZSXY 为 15SWC8081751205\nZS X,Y 为 15SWC 80817,51205",
   "addPointToolTip": "添加 GRG 原点",
   "cellWidth": "像元宽度(x)",
   "cellHeight": "像元高度(y)",

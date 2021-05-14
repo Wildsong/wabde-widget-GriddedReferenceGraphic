@@ -117,7 +117,7 @@ define({
   "createGRGBtn": "Izveidot GRG",
   "clearGRGBtn": "Notīrīt",
   "labelFormat": "Kartes teksta formāts",
-  "helpIconTooltip": "Z: tīkla zonas rādītājs (GZD)\nS: 100 000 metru tīkla laukuma identifikācija (GSID)\nX: austrumu virzienā (X koordināta)\nY: ziemeļu virzienā (Y koordināta)\n\nPiemēri:\nZSXY ir 15SWC8081751205\nZS X,Y ir 15SWC 80817,51205",
+  "helpIconTooltip": "Z: tīkla zonas rādītājs (GZD)\nS: ${number} metru tīkla laukuma identifikācija (GSID)\nX: austrumu virzienā (X koordināta)\nY: ziemeļu virzienā (Y koordināta)\n\nPiemēri:\nZSXY ir 15SWC8081751205\\nZS X,Y ir 15SWC 80817,51205",
   "addPointToolTip": "Pievienot GRG koordinātu sākuma punktu",
   "cellWidth": "Šūnas platums (x)",
   "cellHeight": "Šūnas augstums (y)",

@@ -117,7 +117,7 @@ define({
   "createGRGBtn": "สร้าง GRG",
   "clearGRGBtn": "เคลียร์",
   "labelFormat": "รูปแบบป้าย",
-  "helpIconTooltip": "Z: ตัวกำหนดโซนกริด (GZD)\nS: การกำหนดกริดสี่เหลี่ยมจัตุรัส (GSID) 100,000 เมตร\nX: ตะวันออก (พิกัด X)\nY: เหนือ (พิกัด Y)\n\nตัวอย่าง:\nZSXY คือ 15SWC8081751205\nZS X,Y คือ 15SWC 80817,51205",
+  "helpIconTooltip": "Z: ตัวกำหนดโซนกริด (GZD)\nS: การกำหนดกริดสี่เหลี่ยมจัตุรัส (GSID) ${number}-เมตร\nX: ตะวันออก (พิกัด X)\nY: เหนือ (พิกัด Y)\n\nตัวอย่าง:\nZSXY คือ 15SWC8081751205\nZS X,Y คือ 15SWC 80817,51205",
   "addPointToolTip": "เพิ่มจุดกำเนิด GRG",
   "cellWidth": "ความกว้างของเซลล์ (x)",
   "cellHeight": "ความสูงของเซลล์ (y)",

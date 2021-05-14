@@ -117,7 +117,7 @@ define({
   "createGRGBtn": "Opret GRG",
   "clearGRGBtn": "Ryd",
   "labelFormat": "Etiketformat",
-  "helpIconTooltip": "Z: Gitterzonebetegnelse (GZD)\nS: 100.000-meter identifikation af gitterfirkant (GSID)\nX: Øst/vest-aflæsning (X-koordinat)\nY: Nord/syd-aflæsning (Y-koordinat)\n\nEksempler:\nZSXY er 15SWC8081751205\nZS X,Y er 15SWC 80817,51205",
+  "helpIconTooltip": "Z: Gitterzonebetegnelse (GZD)\\nS: ${number}-meter identifikation af gitterfirkant (GSID)\nX: Øst/vest-aflæsning (X-koordinat)\nY: Nord/syd-aflæsning (Y-koordinat)\n\nEksempler:\nZSXY er 15SWC8081751205\nZS X,Y er 15SWC 80817,51205",
   "addPointToolTip": "Tilføj GRG-oprindelse",
   "cellWidth": "Cellebredde (x)",
   "cellHeight": "Cellehøjde (y)",

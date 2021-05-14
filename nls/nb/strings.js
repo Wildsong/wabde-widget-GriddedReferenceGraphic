@@ -117,7 +117,7 @@ define({
   "createGRGBtn": "Opprett GRG",
   "clearGRGBtn": "Tøm",
   "labelFormat": "Etikettformat",
-  "helpIconTooltip": "Z: ID for rutenettsone (GZD)\nS: 100000 meter identifikasjon av rutenettsrute (GSID)\nX: Forandret østlig lengde (X-koordinat)\nY: Forandret nordlig bredde (Y-koordinat)\n\nEksempel:\nZSXY er 15SWC8081751205\nZS X,Y er 15SWC 80817,51205",
+  "helpIconTooltip": "Z: ID for rutenettsone (GZD)\nS: ${number}-meter Identifikasjon av rutenettsrute (GSID)\nX: Forandret østlig lengde (X-koordinat)\nY: Forandret nordlig bredde (Y-koordinat)\n\nEksempler:\nZSXY er 15SWC8081751205\nZS X,Y er 15SWC 80817,51205",
   "addPointToolTip": "Legg til GRG-opprinnelse",
   "cellWidth": "Cellebredde (x)",
   "cellHeight": "Cellehøyde (y)",

@@ -117,7 +117,7 @@ define({
   "createGRGBtn": "Criar GRG",
   "clearGRGBtn": "Apagar",
   "labelFormat": "Formato do Rótulo",
-  "helpIconTooltip": "Z: Designador de Zona de Grade (GZD)\nS: 100.000-metro Identificação Quadrada de Grade (GSID)\nX: Ao Leste (coordenadas X)\nY: Ao Note (coordenadas Y)\n\nExemplos:\nZSXY é 15SWC8081751205\nZS X,Y é 15SWC 80817,51205",
+  "helpIconTooltip": "Z: Designador de Zona da Grade (GZD)\nS: ${number}-Identificação de Quadrícula da Grade do Medidor (GSID)\nX: Leste (Coordenada X)\nY: Norte (Coordenada Y)\n\nExemplos:\nZSXY é 15SWC8081751205\nZS X,Y é 15SWC 80817,51205",
   "addPointToolTip": "Adicionar Origem GRG",
   "cellWidth": "Largura da Célula (x)",
   "cellHeight": "Altura da Célula (y)",

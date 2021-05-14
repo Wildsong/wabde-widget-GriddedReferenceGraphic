@@ -117,7 +117,7 @@ define({
   "createGRGBtn": "צור GRG",
   "clearGRGBtn": "נקה",
   "labelFormat": "פורמט תווית",
-  "helpIconTooltip": "Z: מציין אזור רשת (GZD)‏‎\n‏S: זיהוי ריבוע רשת (GSID) של 100,000 מטר‎\n‏X: מרווח מזרחי (קואורדינטה X)‎\n‏Y: מרווח צפוני (קואורדינטה Y)‎\n\nדוגמאות:‎\n‏ZSXY הוא 15SWC8081751205‏‎\n‏ZS X,Y הוא 15SWC 80817,51205",
+  "helpIconTooltip": "Z: מציין אזור רשת (GZD)‏‎\n‏S: זיהוי ריבוע רשת (GSID) של ${number} מטר‎\n‏X: מרווח מזרחי (קואורדינטה X)‎\n‏Y: מרווח צפוני (קואורדינטה Y)‎\n\nדוגמאות:‎\n‏ZSXY הוא 15SWC8081751205‏‎\n‏ZS X,Y הוא 15SWC 80817,51205",
   "addPointToolTip": "הוסף מוצא GRG",
   "cellWidth": "רוחב תא (x)",
   "cellHeight": "גובה תא (y)",

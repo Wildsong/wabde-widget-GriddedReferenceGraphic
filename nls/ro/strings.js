@@ -117,7 +117,7 @@ define({
   "createGRGBtn": "Creați GRG",
   "clearGRGBtn": "Golire",
   "labelFormat": "Format etichetă",
-  "helpIconTooltip": "Z: Indicator de zonă a grilei (GZD)\nS: Identificarea pătratului de grilă de 100.000 metri (GSID)\nX: Navigare spre est (Coordonata X)\nY: Navigare spre nord (Coordonate Y)\n\nExemple:\nZSXY este 15SWC8081751205\nZS X,Y este 15SWC 80817,51205",
+  "helpIconTooltip": "Z: Indicator de zonă a grilei (GZD)\nS: Identificarea pătratului de grilă de ${number} metri (GSID)\nX: Navigare spre est (Coordonata X)\nY: Navigare spre nord (Coordonate Y)\n\nExemple:\nZSXY este 15SWC8081751205\nZS X,Y este 15SWC 80817,51205",
   "addPointToolTip": "Adaugă origine GRG",
   "cellWidth": "Lățime celulă (x)",
   "cellHeight": "Înălțime celulă (y)",

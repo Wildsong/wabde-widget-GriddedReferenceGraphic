@@ -117,7 +117,7 @@ define({
   "createGRGBtn": "Skapa GRG",
   "clearGRGBtn": "Avmarkera",
   "labelFormat": "Etikettformat",
-  "helpIconTooltip": "Z: Tecken för rutnätszon (GZD)\nS: 100 000 meter identifiering av rutnätskvadrat (GSID)\nX: Östlig avvikelse (X-koordinat)\nY: Nordlig avvikelse (Y-koordinat)\n\nExempel:\nZSXY är 15SWC8081751205\nZS X,Y är 15SWC 80817,51205",
+  "helpIconTooltip": "Z: Tecken för rutnätszon (GZD)\nS: ${number}-meter identifiering av rutnätskvadrat (GSID)\nX: Östlig avvikelse (X-koordinat)\nY: Nordlig avvikelse (Y-koordinat)\n\nExempel:\nZSXY är 15SWC8081751205\nZS X,Y är 15SWC 80817,51205",
   "addPointToolTip": "Lägg till GRG-ursprung",
   "cellWidth": "Cellvidd (x)",
   "cellHeight": "Cellhöjd (y)",

@@ -117,7 +117,7 @@ define({
   "createGRGBtn": "Stvori GRG",
   "clearGRGBtn": "Očisti",
   "labelFormat": "Format oznake",
-  "helpIconTooltip": "Z: Određivanje zone mreže (GZD)\nS: Identifikacija četverokuta mreže od 100.000 metara (GSID)\nX: Istočno (X koordinata)\nY: Sjeverno (Y koordinata)\n\nPrimjeri:\nZSXY je 15SWC8081751205\nZS X, Y je 15SWC 80817,51205",
+  "helpIconTooltip": "Z: Određivanje zone mreže (GZD)\nS: Identifikacija četverokuta mreže od ${number} metara (GSID)\nX: Istočno (X koordinata)\nY: Sjeverno (Y koordinata)\n\nPrimjeri:\nZSXY je 15SWC8081751205\nZS X, Y je 15SWC 80817,51205",
   "addPointToolTip": "Dodaj podrijetlo GRG-a",
   "cellWidth": "Širina ćelije (x)",
   "cellHeight": "Visina ćelije (y)",

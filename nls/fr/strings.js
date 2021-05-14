@@ -117,7 +117,7 @@ define({
   "createGRGBtn": "Créer un graphique de référence quadrillé",
   "clearGRGBtn": "Effacer",
   "labelFormat": "Format d’étiquette",
-  "helpIconTooltip": "Z : indicateur de zone de grille (GZD)\nS : identification du carré de 100.000 mètres (GSID)\nX : abscisse (coordonnée X)\nY : ordonnée (coordonnée Y)\n\nExemples :\nZSXY est égal à 15SWC8081751205\nZS X,Y est égal à 15SWC 80817,51205",
+  "helpIconTooltip": "Z : indicateur de zone de grille (GZD)\nS : identification du carré de ${number} mètres (GSID)\nX : abscisse (coordonnée X)\nY : ordonnée (coordonnée Y)\n\nExemples :\nZSXY est égal à 15SWC8081751205\nZS X,Y est égal à 15SWC 80817,51205",
   "addPointToolTip": "Ajouter l’origine du graphique de référence quadrillé",
   "cellWidth": "Largeur de cellule (x)",
   "cellHeight": "Hauteur de cellule (y)",

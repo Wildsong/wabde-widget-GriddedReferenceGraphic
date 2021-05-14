@@ -150,7 +150,7 @@
     "createGRGBtn": "Create GRG", // Shown as label on create button
     "clearGRGBtn": "Clear", // Shown as label on clear button
     "labelFormat": "Label Format", // Shown as label above label format input box
-    "helpIconTooltip": "Z: Grid Zone Designator (GZD)\nS: 100,000-meter Grid Square Identification (GSID)\nX: Easting (X Coordinate)\nY: Northing (Y Coordinate)\n\nExamples:\nZSXY is 15SWC8081751205\nZS X,Y is 15SWC 80817,51205", // Shown as label above label format input box
+    "helpIconTooltip": "Z: Grid Zone Designator (GZD)\nS: ${number}-meter Grid Square Identification (GSID)\nX: Easting (X Coordinate)\nY: Northing (Y Coordinate)\n\nExamples:\nZSXY is 15SWC8081751205\nZS X,Y is 15SWC 80817,51205", // Shown as label above label format input box
     "addPointToolTip": "Add GRG Origin", // Show as tooltip help on the draw point icon
     "cellWidth": "Cell Width (x)", // Shown as label above cell width input
     "cellHeight": "Cell Height (y)", // Shown as label above cell height input

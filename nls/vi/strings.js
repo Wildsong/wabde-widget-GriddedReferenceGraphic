@@ -117,7 +117,7 @@ define({
   "createGRGBtn": "Tạo GRG",
   "clearGRGBtn": "Xóa",
   "labelFormat": "Định dạng nhãn",
-  "helpIconTooltip": "Z: Bộ chỉ định Vùng Lưới (GZD)\nS: Xác định Hình vuông Lưới 100.000 mét (GSID)\nX: Đi về phía đông (Tọa độ X)\nY: Đi về phía bắc  (Tọa độ Y)\n\nVí dụ:\nZSXY là 15SWC8081751205\nZS X,Y là 15SWC 80817,51205",
+  "helpIconTooltip": "Z: Bộ chỉ định Vùng Lưới (GZD)\nS: Xác định Hình vuông Lưới (GSID) ${number}-mét\nX: Đi về phía đông (Tọa độ X)\nY: Đi về phía bắc (Tọa độ Y)\n\nVí dụ:\nZSXY là 15SWC8081751205\nZS X,Y là 15SWC 80817,51205",
   "addPointToolTip": "Thêm Điểm gốc GRG",
   "cellWidth": "Chiều rộng ô (x)",
   "cellHeight": "Chiều cao ô (y)",

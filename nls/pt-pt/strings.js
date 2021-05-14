@@ -117,7 +117,7 @@ define({
   "createGRGBtn": "Criar GRG",
   "clearGRGBtn": "Apagar",
   "labelFormat": "Formato de Rótulo",
-  "helpIconTooltip": "Z: Designador de Zona de Grelha (GZD)\nS: Identificação de Quadrado de Grelha de 100,000 metros (GSID)\nX: Avanço para Este (Coordenada X)\nY: Avanço para Norte (Coordenada Y)\n\nExamples:\nZSXY is 15SWC8081751205\nZS X,Y is 15SWC 80817,51205",
+  "helpIconTooltip": "Z: Designador de Zona de Grelha (GZD)\nS: Identificação de Quadrado de Grelha de ${number} metros (GSID)\nX: Avanço para Este (Coordenada X)\nY: Avanço para Norte (Coordenada Y)\n\nExemplos:\nZSXY é 15SWC8081751205\nZS X,Y é 15SWC 80817,51205",
   "addPointToolTip": "Adicionar Origem GRG",
   "cellWidth": "Largura de Célula (x)",
   "cellHeight": "Altura de Célula (y)",

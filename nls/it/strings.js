@@ -117,7 +117,7 @@ define({
   "createGRGBtn": "Crea GRG",
   "clearGRGBtn": "Cancella",
   "labelFormat": "Formato etichetta",
-  "helpIconTooltip": "Z: Designatore zona griglia (GZD)\nS: Identificazione quadrato griglia di 100.000 metri (GSID)\nX: Direzione est (coordinata X)\nY: Direzione nord (coordinata Y)\n\nEsempi:\nZSXY è 15SWC8081751205\nZS X,Y è 15SWC 80817,51205",
+  "helpIconTooltip": "Z: Designatore zona griglia (GZD)\nS: ${number} Identificazione quadrato griglia di metri (GSID)\nX: Direzione est (coordinata X)\nY: Direzione nord (coordinata Y)\n\nEsempi:\nZSXY è 15SWC8081751205\nZS X,Y è 15SWC 80817,51205",
   "addPointToolTip": "Aggiungi origine GRG",
   "cellWidth": "Larghezza cella (x)",
   "cellHeight": "Altezza cella (x)",

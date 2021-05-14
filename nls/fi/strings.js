@@ -117,7 +117,7 @@ define({
   "createGRGBtn": "Luo GRG",
   "clearGRGBtn": "Tyhjennä",
   "labelFormat": "Tunnustekstin muoto",
-  "helpIconTooltip": "Z: ruudukon vyöhykemääritys (GZD)\nS: ruudukon 100 000 metrin neliön tunnus (GSID)\nX: itäinen (X-koordinaatti)\nY: pohjoinen (Y-koordinaatti)\n\nEsimerkit:\nZSXY on 15SWC8081751205\nZS X,Y on 15SWC 80817,51205",
+  "helpIconTooltip": "Z: ruudukon vyöhykemääritys (GZD)\nS: ruudukon ${number} metrin neliön tunnus (GSID)\nX: itäinen (X-koordinaatti)\nY: pohjoinen (Y-koordinaatti)\n\nEsimerkit:\nZSXY on 15SWC8081751205\nZS X,Y on 15SWC 80817,51205",
   "addPointToolTip": "Lisää GRG:n alkupiste",
   "cellWidth": "Solun leveys (x)",
   "cellHeight": "Solun korkeus (y)",

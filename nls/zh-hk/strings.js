@@ -117,7 +117,7 @@ define({
   "createGRGBtn": "建立 GRG",
   "clearGRGBtn": "清除",
   "labelFormat": "標籤格式",
-  "helpIconTooltip": "Z: 網格區域指定器 (GZD)\nS: 100,000 公尺網格方形識別 (GSID)\nX: 東移 (X 座標)\nY: 北移 (Y 座標)\n\n範例:\nZSXY 是 15SWC8081751205\nZS X,Y 是 15SWC 80817,51205",
+  "helpIconTooltip": "Z: 網格區域指定器 (GZD)\nS: ${number} 公尺網格方形識別 (GSID)\nX: 東移 (X 座標)\nY: 北移 (Y 座標)\n\n範例:\nZSXY 是 15SWC8081751205\nZS X,Y 是 15SWC 80817,51205",
   "addPointToolTip": "新增 GRG 原點",
   "cellWidth": "儲存格寬度 (x)",
   "cellHeight": "儲存格高度 (y)",

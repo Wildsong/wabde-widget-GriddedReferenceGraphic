@@ -117,7 +117,7 @@ define({
   "createGRGBtn": "GRG maken",
   "clearGRGBtn": "Annuleren",
   "labelFormat": "Labelopmaak",
-  "helpIconTooltip": "Z: Grid Zone Designator (GZD)\nS: 100.000-meter Grid Square Identification (GSID)\nX: Oosterbreedte (X-coördinaat)\nY: Noorderbreedte (Y-coördinaat)\n\nVoorbeelden:\nZSXY is 15SWC8081751205\nZS X,Y is 15SWC 80817,51205",
+  "helpIconTooltip": "Z: Grid Zone Designator (GZD)\\nS: ${number}-meter Grid Square Identification (GSID)\\nX: Oosterbreedte (X-coördinaat)\\nY: Noorderbreedte (Y-coördinaat)\\n\\nVoorbeelden:\\nZSXY is 15SWC8081751205\\nZS X,Y is 15SWC 80817,51205",
   "addPointToolTip": "GRG-oorsprong toevoegen",
   "cellWidth": "Celbreedte (x)",
   "cellHeight": "Celhoogte (y)",

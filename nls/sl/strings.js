@@ -117,7 +117,7 @@ define({
   "createGRGBtn": "Ustvari GRG",
   "clearGRGBtn": "Počisti",
   "labelFormat": "Format napisa",
-  "helpIconTooltip": "Z: Oznaka mrežne cone (GZD)\nS: 100.000-metrska identifikacija kvadrata mreže (GSID)\nX: Pomik proti vzhodu (koordinata X)\nY: Pomik proti severu (koordinata Y)\n\nPrimeri:\nZSXY je 15SWC8081751205\nZS X, Y je 15SWC 80817.51205",
+  "helpIconTooltip": "Z: Oznaka mrežne cone (GZD)\nS: ${number}-metrska identifikacija kvadrata mreže (GSID)\nX: Pomik proti vzhodu (koordinata X)\nY: Pomik proti severu (koordinata Y)\n\nPrimeri:\\nZSXY je 15SWC8081751205\nZS X, Y je 15SWC 80817,51205",
   "addPointToolTip": "Dodaj izhodišče GRG",
   "cellWidth": "Širina celice (x)",
   "cellHeight": "Višina celice (y)",

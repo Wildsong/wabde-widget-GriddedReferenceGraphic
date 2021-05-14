@@ -74,6 +74,7 @@ define([
     "dojo/dom-attr",
     "esri/geometry/projection",
     "esri/SpatialReference",
+    'dojo/string',
     "dijit/form/NumberTextBox",
     "dijit/form/RadioButton",
     "dijit/form/NumberSpinner",
@@ -134,7 +135,8 @@ define([
     keys,
     domAttr,
     projection,
-    SpatialReference
+    SpatialReference,
+    string
   ) {
     return declare([BaseWidget, dijitWidgetBase, dijitWidgetsInTemplate], {
       baseClass: "jimu-widget-GRGDrafter",
@@ -186,6 +188,15 @@ define([
             });
           };
         }
+
+        //format string according to locale
+        var formattedNumberStr = string.substitute(this.nls.helpIconTooltip,
+          { "number": utils.localizeNumber(100000) });
+        domAttr.set(this.helpBtnForArea, "title", formattedNumberStr);
+        domAttr.set(this.helpBtnForPt, "title", formattedNumberStr);
+
+        domAttr.set(this.helpBtnForArea, "aria-label", formattedNumberStr);
+        domAttr.set(this.helpBtnForPt, "aria-label", formattedNumberStr);
 
         //Check if HE locale
         if (window.isRTL && kernel.locale === "he") {
@@ -1326,6 +1337,22 @@ define([
       },
 
       /**
+       * Check if feature layer has the supported capabilities
+       * @param {*} capabilities
+       * @returns
+       */
+      _containsSupportedCapabilities: function (capabilities) {
+        var supported = ["create", "delete", "query", "update", "editing"];
+        var isSupported = true;
+        supported.forEach(function(supCap) {
+          if (capabilities.toLowerCase().split(",").indexOf(supCap) === -1) {
+            isSupported = false;
+          }
+        });
+        return isSupported;
+      },
+
+      /**
        * Populates the drop down list of operational layers
        * from the webmap
        */
@@ -1342,7 +1369,7 @@ define([
 
         array.forEach(layerList, lang.hitch(this, function (layer) {
           if (layer.url) {
-            if (layer.type === "Feature Layer" && layer.capabilities.includes("Create,Delete,Query,Update,Editing")) {
+            if (layer.type === "Feature Layer" && this._containsSupportedCapabilities(layer.capabilities)) {
               selectNode.addOption({
                 value: layer.name,
                 label: utils.sanitizeHTML(layer.name),

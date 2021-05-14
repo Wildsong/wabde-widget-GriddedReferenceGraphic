@@ -117,7 +117,7 @@ define({
   "createGRGBtn": "Loo GRG",
   "clearGRGBtn": "Tühjenda",
   "labelFormat": "Sildi vorming",
-  "helpIconTooltip": "Z: ruudustikutsooni designaator (GZD)\nS: 100 000-meetrise ruudustikuruudu identifikaator (GSID)\nX: X-koordinaat\nY: Y-koordinaat\n\nNäited:\nZSXY on 15SWC8081751205\nZS X,Y on 15SWC 80817,51205",
+  "helpIconTooltip": "Z: ruudustikutsooni designaator (GZD)\nS: ${number}-meetrise ruudustikuruudu identifikaator (GSID)\\nX: X-koordinaat\\nY: Y-koordinaat\\n\\nNäited:\\nZSXY on 15SWC8081751205\\nZS X,Y on 15SWC 80817,51205",
   "addPointToolTip": "Lisa GRG päritolu",
   "cellWidth": "Ruudu laius (x)",
   "cellHeight": "Ruudu kõrgus (y)",

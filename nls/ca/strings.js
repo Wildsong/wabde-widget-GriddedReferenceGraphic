@@ -117,7 +117,7 @@ define({
   "createGRGBtn": "Crea un GRG",
   "clearGRGBtn": "Esborra",
   "labelFormat": "Format de l'etiqueta",
-  "helpIconTooltip": "Z: designador de zona de quadrícula (GZD)\nS: identificador de quadrat de la quadrícula de 100.000 metres (GSID)\nX: coordenada horitzontal (coordenada X)\nY: coordenada vertical (coordenada Y)\n\nExemples:\nZSXY és 15SWC8081751205\nZS X,Y és 15SWC 80817,51205",
+  "helpIconTooltip": "Z: designador de zona de quadrícula (GZD)\nS: identificador de quadrat de la quadrícula de ${number} metres (GSID)\nX: coordenada horitzontal (coordenada X)\nY: coordenada vertical (coordenada Y)\n\nExemples:\nZSXY és 15SWC8081751205\nZS X,Y és 15SWC 80817,51205",
   "addPointToolTip": "Afegeix un origen de GRG",
   "cellWidth": "Amplada de la cel·la (x)",
   "cellHeight": "Altura de la cel·la (y)",

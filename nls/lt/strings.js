@@ -117,7 +117,7 @@ define({
   "createGRGBtn": "Kurti GRG",
   "clearGRGBtn": "Valyti",
   "labelFormat": "Žymės formatas",
-  "helpIconTooltip": "Z: tinklelio zonos žymuo (GZD)\nS: 100 000 metrų tinklelio kvadrato identifikacija (GSID)\nX: Į rytus (X koordinatė)\nY: Į šiaurę (Y koordinatė)\n\nPavyzdžiai:\nZSXY yra 15SWC8081751205\nZS X,Y yra 15SWC 80817,51205",
+  "helpIconTooltip": "Z: tinklelio zonos žymuo (GZD)\nS: ${number} metrų tinklelio kvadrato identifikacija (GSID)\nX: Į rytus (X koordinatė)\nY: Į šiaurę (Y koordinatė)\n\nPavyzdžiai:\nZSXY yra 15SWC8081751205\nZS X,Y yra 15SWC 80817,51205",
   "addPointToolTip": "Įtraukti GRG pradžią",
   "cellWidth": "Gardelės plotis (x)",
   "cellHeight": "Gardelės aukštis (y)",
